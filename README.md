@@ -13,4 +13,15 @@ The Project consists of several phases of operation, given its scale:-
      We used Tensorflow as a framework to train the network on Google Colaboratory as we get free K80 GPU. 
      
   4) Phase IV -(Ongoing)
-     This is the current ongoing phase where alongwith the five sensors and a Pi Camera to get realtime visual feed. 
+     This is the current ongoing phase where alongwith the five sensors and a Pi Camera to get realtime visual feed. This has added a new        dimension to my project. Now, we are trying to manually collect a dataset through a small robotic environment like a roadway, for our      bot to learn. Then, the plan is to annotate the images and place it in the VOC PASCAL dataset. The next plan is to add a few conv          layers and a fully connected layer and retrain the network for our purposes.
+     This suits our purpose as our model can now easily label our custom objects like traffic sign,road edges and other obstacles. Also, a      parallel script calculates the objects marking the distance of each object that has been observed.
+     Now, the second stage of this phase is to collect video data + ultrasonic sensor data + my instructions on a file for the final model      to train. This model's objective is to learn a complex function to maneuver the bot autonomously.
+     
+     
+     
+## Important Links and Thanks to resources
+1) PASCAL VOC DATASET
+2) SINGLE SHOT MULTIBOX DETECTOR
+
+     
+    
