@@ -28,7 +28,12 @@ The Project consists of several phases of operation, given its scale:-
      This suits our purpose as our model can now easily label our custom objects like traffic sign,road edges and other
      obstacles. Also, a parallel script calculates the objects marking the distance of each object that has been observed.
      Now, the second stage of this phase is to collect video data + ultrasonic sensor data + my instructions on a file
-     for the final model to train. This model's objective is to learn a complex function to maneuver the bot autonomously.
+     for the final model to train. This model's objective is to learn a complex function to maneuver the bot autonomously.    
+     
+   ### Phase V -(Expected to start by March) 
+     This is the Mega Part of my project. This project is supposed to be built on top of the Phase IV . In this , the aim is to build a      pool of Cars based on I.O.T. model to share realtime information and updated parameters. This would lead to a great speedup in          learning ability of the car in different environments.Also, the big breakthrough would be to add a G.P.S. with coarse/fine settings 
+     for effective destination journey.
+     But, my prime focus is on Phase IV.
      
      
      
