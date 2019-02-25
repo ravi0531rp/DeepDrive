@@ -1,5 +1,4 @@
-![Alt text](DeepDrive/blob/master/Screenshot%20(274).png?raw=true "Images from the beginning to autonomous simulation")
-
+![alt text](https://github.com/ravi0531rp/DeepDrive/blob/master/Screenshot%20(274).png)
 
 
 
